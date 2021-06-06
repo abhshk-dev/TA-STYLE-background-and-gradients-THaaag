@@ -57,6 +57,7 @@ body{
     height: 130vh;
 	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 250px;
+	background-attachment: fixed;
 	
 }
 span{
